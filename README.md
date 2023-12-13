@@ -1,1 +1,1 @@
- https://knifewifealive.github.io/rsschool-cv/cv
+ https://knifewifealive.github.io/rsschool-cv/
