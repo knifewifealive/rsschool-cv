@@ -73,9 +73,9 @@ function calc(str){
 ```
 ## Projects
 
-1. [CreateX](https://knifewifealive.github.io/createX/), project description and code: https://github.com/knifewifealive/createX
+1. [CreateX](https://knifewifealive.github.io/createX/), project description and code: <https://github.com/knifewifealive/createX>
 
-1. Deposit calculator, project descriprion and code: https://github.com/knifewifealive/depositCalculator
+1. Deposit calculator, project descriprion and code: <https://github.com/knifewifealive/depositCalculator>
 
 ## Education and Courses
 
